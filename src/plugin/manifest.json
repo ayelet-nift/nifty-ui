@@ -1,0 +1,9 @@
+{
+  "name": "Nifty Buttons",
+  "id": "1494681295917217691", 
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "permissions": [],
+  "enableProposedApi": false
+}

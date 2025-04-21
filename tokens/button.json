@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "primary": {
+      "label": "Primary",
+      "states": {
+        "base": {
+          "background": "#3366FF",
+          "textColor": "#FFFFFF",
+          "border": null
+        },
+        "hover": {
+          "background": "#1D4ED8"
+        },
+        "active": {
+          "background": "#1E40AF"
+        },
+        "disabled": {
+          "background": "#3366FF",
+          "textColor": "#FFFFFF",
+          "opacity": 0.5
+        },
+        "loading": {
+          "background": "#3366FF",
+          "textColor": "#FFFFFF",
+          "opacity": 0.6
+        }
+      },
+      "radius": 6,
+      "padding": [8, 16]
+    },
+    "ghost": {
+      "label": "Ghost",
+      "states": {
+        "base": {
+          "background": "#F0F0FF",
+          "textColor": "#3366FF",
+          "border": "#3366FF"
+        },
+        "hover": {
+          "background": "#E0E0FF"
+        },
+        "active": {
+          "background": "#D0D0FF"
+        },
+        "disabled": {
+          "opacity": 0.4
+        },
+        "loading": {
+          "opacity": 0.6
+        }
+      },
+      "radius": 6,
+      "padding": [8, 16]
+    }
+  }
+}
